@@ -10,12 +10,12 @@ ODK-X is a tool suite designed for complex workflows and for use by projects wit
 
 ## Applications
 The ODK-X Tool Suite consists of:
-- [ODK Application Designer](https://docs.opendatakit.org/odk-x/app-designer-intro/) - A design environment for creating, customizing, and previewing your forms, data curation, and visualization applications.
-- [ODK Survey](https://docs.opendatakit.org/odk-x/survey-intro/) - A data collection application based upon HTML, CSS, JavaScript.
-- [ODK Tables](https://docs.opendatakit.org/odk-x/tables-intro/) - A data curation and visualization application running on your mobile device.
-- [ODK Services](https://docs.opendatakit.org/odk-x/services-intro/) - An application for handling database access, file access, and data synchronization services between all the ODK-X applications. It allows you to synchronize data collected by the ODK-X Android tools with a cloud endpoint.
-- [ODK Cloud Endpoints](https://docs.opendatakit.org/odk-x/cloud-endpoints-intro/) - a cloud server to host data and application files, and to support bi-directional data synchronization across disconnected mobile devices.
-- [ODK Suitcase](https://docs.opendatakit.org/odk-x/suitcase-intro/) - a desktop tool for synchronizing data with a cloud endpoint.
+- [ODK Application Designer](https://github.com/opendatakit/app-designer) - A design environment for creating, customizing, and previewing your forms, data curation, and visualization applications.
+- [ODK Survey](https://github.com/opendatakit/survey) - A data collection application based upon HTML, CSS, JavaScript.
+- [ODK Tables](https://github.com/opendatakit/tables) - A data curation and visualization application running on your mobile device.
+- [ODK Services](https://github.com/opendatakit/services) - An application for handling database access, file access, and data synchronization services between all the ODK-X applications. It allows you to synchronize data collected by the ODK-X Android tools with a cloud endpoint.
+- [ODK Sync Endpoint](https://github.com/opendatakit/sync-endpoint) - a cloud server to host data and application files, and to support bi-directional data synchronization across disconnected mobile devices.
+- [ODK Suitcase](https://github.com/opendatakit/suitcase) - a desktop tool for synchronizing data with a cloud endpoint.
 
 ## How to contribute
 If you’re new to ODK-X you can check out the Getting Started Guides:
