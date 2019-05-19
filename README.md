@@ -28,4 +28,4 @@ Once you’re up and running, you can choose an issue to start working on from h
 Issues tagged as [good first issue](https://github.com/opendatakit/tool-suite-X/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) should be a good place to start.
 
 ## Links for users
-This document is aimed at helping developers and technical contributors. If you are looking for information on how to get started as a user of ODK-X, or to learn more about the Open Data Kit project, visit https://opendatakit.org/
+This document is aimed at helping developers and technical contributors. For information on how to get started as a user of ODK-X, see our [online documentation](https://docs.opendatakit.org/odk-x/), or to learn more about the Open Data Kit project, visit [https://opendatakit.org/](https://opendatakit.org/).
