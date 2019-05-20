@@ -23,7 +23,7 @@ If you’re new to ODK-X you can check out the Getting Started Guides:
 - https://docs.opendatakit.org/odk2/getting-started-2-architect/
 
 Once you’re up and running, you can choose an issue to start working on from here: 
-- [https://github.com/opendatakit/tool-suite-X/issues](https://github.com/opendatakit/opendatakit/issues)
+- [https://github.com/opendatakit/tool-suite-X/issues](https://github.com/opendatakit/tool-suite-X/issues)
 
 Issues tagged as [good first issue](https://github.com/opendatakit/tool-suite-X/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) should be a good place to start.
 
