@@ -1,4 +1,4 @@
-# Open Data Kit Tool Suite X
+# Open Data Kit Tool Suite X (ODK-X)
 
 ODK-X is a tool suite designed for complex workflows and for use by projects with technical capabilities.
 
