@@ -6,7 +6,7 @@ ODK-X is a tool suite designed for complex workflows and for use by projects wit
 - Features non-sequential navigation, bi-directional synchronization, and on-device data management
 
 ## Release notes
-[Combined release notes](https://github.com/opendatakit/tool-suite-X/wiki/ODK-X-Tool-Suite-Release-Notes) for all ODK-X Tool Suite projects.
+[Combined release notes](https://github.com/opendatakit/tool-suite-X/wiki/ODK-X-Tool-Suite-Release-Notes) for all ODK-X Tool Suite tools.
 
 ## Applications
 The ODK-X Tool Suite consists of:
