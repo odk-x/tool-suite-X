@@ -19,7 +19,7 @@ The ODK-X Tool Suite consists of:
 
 ## How to contribute
 If you’re new to ODK-X you can check out the documentation:
-- [https://docs.odk-x.org](https://docs.odk-x.org_
+- [https://docs.odk-x.org](https://docs.odk-x.org)
 
 Once you’re up and running, you can choose an issue to start working on from here: 
 - [https://github.com/odk-x/tool-suite-X/issues](https://github.com/odk-x/tool-suite-X/issues)
