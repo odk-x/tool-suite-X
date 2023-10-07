@@ -6,6 +6,8 @@ ODK-X is a tool suite designed for complex workflows and for use by projects wit
 - Features non-sequential navigation, bi-directional synchronization, and on-device data management
 - [![Watch the video](https://img.youtube.com/vi/fdfkTH-Wm2w/default.jpg)](https://www.youtube.com/watch?v=fdfkTH-Wm2w)
 
+  <iframe width="683" height="384" src="https://www.youtube.com/embed/fdfkTH-Wm2w" title="Introduction to ODK (Open Data Kit) -  Building your XLSForm For Data Collection - #1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Release notes
 [Combined release notes](https://github.com/odk-x/tool-suite-X/wiki/ODK-X-Tool-Suite-Release-Notes) for all ODK-X Tool Suite tools.
 
