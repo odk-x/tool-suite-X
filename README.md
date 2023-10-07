@@ -4,7 +4,7 @@ ODK-X is a tool suite designed for complex workflows and for use by projects wit
 
 - Flexible tool suite that supports complex workflows via JavaScript customization
 - Features non-sequential navigation, bi-directional synchronization, and on-device data management
-<iframe width="683" height="384"> [![Watch the video](https://img.youtube.com/vi/fdfkTH-Wm2w/default.jpg)](https://www.youtube.com/watch?v=fdfkTH-Wm2w)</iframe>
+[![Watch the video](https://img.youtube.com/vi/fdfkTH-Wm2w/default.jpg)](https://www.youtube.com/watch?v=fdfkTH-Wm2w)
 
 ## Release notes
 [Combined release notes](https://github.com/odk-x/tool-suite-X/wiki/ODK-X-Tool-Suite-Release-Notes) for all ODK-X Tool Suite tools.
